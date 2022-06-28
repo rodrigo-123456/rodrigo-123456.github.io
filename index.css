@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background: url(https://images2.alphacoders.com/564/564835.jpg) no-repeat;
+    background-size: cover;
+  }
+  
+  .box {
+    width: 500px;
+    background: rgba(0, 0, 0, .4);
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 4%;
+    color: white;
+    font-family: 'Century Gothic', sans-serif;
+    border-radius: 15px;
+  }
+  
+  .box-img {
+    border-radius: 50%;
+  }
+  
+  .box h1 {
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+    margin: 30px 0 20px;
+  }
+  .escudo{
+border-radius: 50%;
+width: 200px;
+height: 200px;
+position: relative;
+top: -600px;
+box-shadow: black 10px 10px 10px;
+opacity: 40%;
+  }
+  .mantenimiento{
+position: relative;
+top: -550px;
+font-size: 25px;
+color: aqua;
+  }
+.instalacion{
+position: relative;
+right: -550px;
+top: -550px;
+font-size: 25px;
+color: aqua;
+}
+  
+
+  

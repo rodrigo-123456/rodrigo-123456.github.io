@@ -1,0 +1,96 @@
+.TITULO{
+    text-align: center;
+    width: auto;
+    height: 600px;
+    background-color: rgba(49, 48, 48, 0.979);
+    font-size: 80pt;
+    font-family: Algerian;
+    color: aquamarine;
+    background-image: url(mantenimientoxd.jpg);
+background-repeat:no-repeat;
+background-size: 100%;    
+text-shadow: 5px 5px 5px black;
+}
+p{
+font-family: CHILLER;
+font-size: 55pt;
+color: greenyellow;
+text-shadow: 5px 5px 5px black;
+}
+img{
+width: 230pt;
+height: 230pt;
+border-top-left-radius: 100px ;
+border-bottom-right-radius:100px ;
+border-color: red;
+box-shadow: 5px 5px 5px greenyellow;
+}
+.p1{
+display: inline-block;
+width: 50%;
+}
+body{
+background-color: rgb(41, 41, 41);
+}
+.p2{
+display: inline-block;
+width: 50%;
+}
+.p3{
+    display: inline-block;
+    width: 50%;
+    }
+    .p4{
+        display: inline-block;
+        width: 50%;
+        }
+        .p5{
+            display: inline-block;
+            width: 50%;
+            }
+            .p6{
+                display: inline-block;
+                width: 50%;
+                }
+                .p7{
+                    display: inline-block;
+                    width: 50%;
+                    }
+                    .p8{
+                        display: inline-block;
+                        width: 50%;
+                        }
+                        .p9{
+                            display: inline-block;
+                            width: 50%;
+                            }
+                            .p10{
+                                display: inline-block;
+                                width: 50%;
+                                }
+                                .p11{
+                                    display: inline-block;
+                                    width: 50%;
+                                    }
+                                    .p12{
+                                        display: inline-block;
+                                        width: 50%;
+                                        }
+                                        .p13{
+                                            display: inline-block;
+                                            width: 50%;
+                                            }
+                                            .p14{
+                                                display: inline-block;
+                                                width: 50%;
+                                                }
+.listas{
+width: 100px;
+height: 3150px;
+background-color: rgb(102, 199, 12);
+font-family: Comic Sans ms;
+font-size: 30px;
+position: relative;
+left: 1000px;
+top: -5780px;
+}                                          
